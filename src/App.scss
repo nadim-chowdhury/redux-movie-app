@@ -1,0 +1,18 @@
+@import "./common/colors.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  text-decoration: none;
+}
+
+body {
+  background-color: $secondary-color;
+}
+
+.container {
+  padding: 0px 40px;
+}
